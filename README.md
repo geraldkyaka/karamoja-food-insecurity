@@ -26,7 +26,7 @@ This project presents an *interactive Tableau dashboard* that monitors food secu
 - *Bar charts* – Crop yields by sub-county.  
 - *Trend lines* – Yield changes over time.  
 - *Interactive filters* – User-friendly exploration of data.
-- 
+- https://public.tableau.com/app/profile/shaleen.taitumu/viz/group4_17573509270040/Dashboard1?publish=yes
 ## Key Insights
 - Population growth is uneven across Karamoja.  
 - Some districts show declining yields in staple crops.  
